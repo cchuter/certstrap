@@ -20,7 +20,7 @@ package main
 import (
 	"os"
 
-	"github.com/square/certstrap/Godeps/_workspace/src/github.com/urfave/cli"
+	"github.com/urfave/cli"
 	"github.com/square/certstrap/cmd"
 	"github.com/square/certstrap/depot"
 )
