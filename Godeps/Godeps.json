@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/square/certstrap",
+	"ImportPath": "github.com/cchuter/certstrap",
 	"GoVersion": "go1.3.3",
 	"Packages": [
 		"./..."
