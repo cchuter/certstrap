@@ -23,8 +23,8 @@ import (
 	"strings"
 
 	"github.com/urfave/cli"
-	"github.com/square/certstrap/depot"
-	"github.com/square/certstrap/pkix"
+	"github.com/cchuter/certstrap/depot"
+	"github.com/cchuter/certstrap/pkix"
 )
 
 // NewSignCommand sets up a "sign" command to sign a CSR with a given CA for a new certificate

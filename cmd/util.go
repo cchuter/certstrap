@@ -25,7 +25,7 @@ import (
 
 	"github.com/urfave/cli"
 	"github.com/howeyc/gopass"
-	"github.com/square/certstrap/depot"
+	"github.com/cchuter/certstrap/depot"
 )
 
 var (

@@ -24,8 +24,8 @@ import (
 	"strings"
 
 	"github.com/urfave/cli"
-	"github.com/square/certstrap/depot"
-	"github.com/square/certstrap/pkix"
+	"github.com/cchuter/certstrap/depot"
+	"github.com/cchuter/certstrap/pkix"
 )
 
 // NewInitCommand sets up an "init" command to initialize a new CA

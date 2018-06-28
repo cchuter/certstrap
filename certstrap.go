@@ -21,8 +21,8 @@ import (
 	"os"
 
 	"github.com/urfave/cli"
-	"github.com/square/certstrap/cmd"
-	"github.com/square/certstrap/depot"
+	"github.com/cchuter/certstrap/cmd"
+	"github.com/cchuter/certstrap/depot"
 )
 
 func main() {
