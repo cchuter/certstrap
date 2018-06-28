@@ -24,7 +24,7 @@ import (
 	"os"
 
 	"github.com/urfave/cli"
-	"github.com/square/certstrap/Godeps/_workspace/src/github.com/howeyc/gopass"
+	"github.com/howeyc/gopass"
 	"github.com/square/certstrap/depot"
 )
 
