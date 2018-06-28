@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package main
+package certstrap
 
 import (
 	"os"
@@ -25,6 +25,7 @@ import (
 	"github.com/cchuter/certstrap/depot"
 )
 
+/*
 func main() {
 	app := cli.NewApp()
 	app.Name = "certstrap"
@@ -54,3 +55,4 @@ func main() {
 		os.Exit(1)
 	}
 }
+*/
